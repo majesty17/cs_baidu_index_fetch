@@ -1,0 +1,9 @@
+E:\代码\vs\BDIndex\百度index抓取\bin\Debug\百度index抓取.exe
+E:\代码\vs\BDIndex\百度index抓取\bin\Debug\百度index抓取.pdb
+E:\代码\vs\BDIndex\百度index抓取\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\代码\vs\BDIndex\百度index抓取\obj\x86\Debug\百度index抓取.Form1.resources
+E:\代码\vs\BDIndex\百度index抓取\obj\x86\Debug\百度index抓取.Properties.Resources.resources
+E:\代码\vs\BDIndex\百度index抓取\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\代码\vs\BDIndex\百度index抓取\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\代码\vs\BDIndex\百度index抓取\obj\x86\Debug\百度index抓取.exe
+E:\代码\vs\BDIndex\百度index抓取\obj\x86\Debug\百度index抓取.pdb
